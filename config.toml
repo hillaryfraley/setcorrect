@@ -1,7 +1,7 @@
 baseurl             = "https://introduction.com/"   # Your domain name. Must end with "/"
 languageCode        = "en-us"
 title               = "Introduction"
-theme               = "hugo-introduction-theme"
+theme               = "introduction"
 enforce_ssl         = false
 builddrafts         = false                         # Include pages with draft status of true
 canonifyurls        = true                          # Turns relative urls into absolute urls
@@ -15,7 +15,7 @@ canonifyurls        = true                          # Turns relative urls into a
     introheight     = "large"                       # Input either 'medium' or 'large' or 'fullheight'
     theme           = "dark"                        # Choose 'light' or 'dark'
     avatar          = "img/profile.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
-    email           = "hillary at setcorrect.com"         # Shows in contact section, or leave blank to omit
+    email           = "youremail@email.com"         # Shows in contact section, or leave blank to omit
     localtime       = true                          # Show your current local time in contact section
     timezone        = "America/New_York"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
     dateform        = "Jan 2, 2006"
@@ -33,13 +33,13 @@ canonifyurls        = true                          # Turns relative urls into a
     placeholderimg      = "/img/workday.jpg"        # For Projects without image
     showallposts        = false                     # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
     showlatest          = true                      # Show latest blog post summary
-    sharebuttons        = false                      # On post pages, show share this social buttons
+    sharebuttons        = true                      # On post pages, show share this social buttons
 
     # Share buttons
-    sharetwitter        = false
-    sharefacebook       = false
+    sharetwitter        = true
+    sharefacebook       = true
     sharepinterest      = false
-    sharegoogleplus     = false
+    sharegoogleplus     = true
 
 # Social icons appear in introduction and contact section. Add as many more as you like.
 # Find icon names here: http://fontawesome.io/cheatsheet/
