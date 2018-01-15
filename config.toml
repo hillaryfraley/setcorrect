@@ -1,7 +1,7 @@
 baseurl             = "https://introduction.com/"   # Your domain name. Must end with "/"
 languageCode        = "en-us"
 title               = "Introduction"
-theme               = "introduction"
+theme               = "hugo-introduction-theme"
 enforce_ssl         = false
 builddrafts         = false                         # Include pages with draft status of true
 canonifyurls        = true                          # Turns relative urls into absolute urls
