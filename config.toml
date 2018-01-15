@@ -1,53 +1,55 @@
-baseurl             = "https://introduction.com/"   # Your domain name. Must end with "/"
-languageCode        = "en-us"
-title               = "Introduction"
-theme               = "introduction"
-enforce_ssl         = false
-builddrafts         = false                         # Include pages with draft status of true
-canonifyurls        = true                          # Turns relative urls into absolute urls
-# disqusshortname   = "xxx"                         # Enable Disqus for comments
-# googleAnalytics   = "xxx"
+baseurl = "https://example.org/"
+title = "My new site"
+theme = "hugo-creative-portfolio"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
 
 [params]
-    bloghead        = "Blog"                        # Full name shows on blog post pages
-    firstname       = "Introduction"                # First name shows in introduction on main page
-    tagline         = "I'm a theme for Hugo."       # Appears after the introduction
-    introheight     = "large"                       # Input either 'medium' or 'large' or 'fullheight'
-    theme           = "dark"                        # Choose 'light' or 'dark'
-    avatar          = "img/profile.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
-    email           = "youremail@email.com"         # Shows in contact section, or leave blank to omit
-    localtime       = true                          # Show your current local time in contact section
-    timezone        = "America/New_York"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-    dateform        = "Jan 2, 2006"
-    dateformfull    = "Mon Jan 2 2006 15:04:05 EST"
-    cachebuster     = false                         # Add the current unix timestamp in query string for cache busting css assets (relevant in development mode)
-    description     = "Website Description"         # Max 160 characters show in search results
-    faviconfile     = "img/fav.ico"
-    highlightjs     = true                          # Syntax highlighting
-    footertext      = ""                            # Text to show in footer (overrides default text)
-    fadein          = true                          # Turn on/off the fade-in effect
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Describe your website"
+  copyright = "&copy;2016 Your name or company"
+  sidebarAbout = [
+    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Originally from Toronto, currently based in London."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "hillary at setcorrect.com"
 
-    showblog            = true                      # Show Blog section on home page
-    showprojects        = true                      # Show Projects section on home page
-    projectcolumns      = "3"                       # Choose "2" or "3" columns for projects section
-    placeholderimg      = "/img/workday.jpg"        # For Projects without image
-    showallposts        = false                     # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
-    showlatest          = true                      # Show latest blog post summary
-    sharebuttons        = true                      # On post pages, show share this social buttons
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "http://www.setcorrect.com"
 
-    # Share buttons
-    sharetwitter        = true
-    sharefacebook       = true
-    sharepinterest      = false
-    sharegoogleplus     = true
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
 
-# Social icons appear in introduction and contact section. Add as many more as you like.
-# Find icon names here: http://fontawesome.io/cheatsheet/
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
 
-[[params.social]]
-    url = "https://github.com/hillaryfraley"
-    icon = "github-square"
-
-[[params.social]]
-    url = "https://www.linkedin.com/in/hillaryfraley/"
-    icon = "linkedin"
+  [params.social]
+  # facebook      = "full page or profile url in facebook"
+  # googleplus    = "full profile url in googleplus"
+  email         = "hillary at setcorrect.com"
+  # twitter       = "full profile url in twitter"
+  linkedin      = "https://www.linkedin.com/in/hillaryfraley/"
+  # stackoverflow = "full profile url in stackoverflow"
+  # instagram     = "full profile url in instagram"
+  github        = "https://github.com/hillaryfraley"
