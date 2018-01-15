@@ -33,7 +33,7 @@ canonifyurls        = true                          # Turns relative urls into a
     placeholderimg      = "/img/workday.jpg"        # For Projects without image
     showallposts        = false                     # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
     showlatest          = true                      # Show latest blog post summary
-    sharebuttons        = falses                      # On post pages, show share this social buttons
+    sharebuttons        = false                      # On post pages, show share this social buttons
 
     # Share buttons
     sharetwitter        = false
