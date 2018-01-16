@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/auto_prog_dataflash_format_nand.htm'],s:['000ω'],p:[['000ω',4]]});

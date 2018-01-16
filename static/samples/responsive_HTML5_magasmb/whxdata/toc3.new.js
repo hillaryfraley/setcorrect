@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"5 Assemble and Set Layer 1","url":"Assemble_and_Set_Layer_1.htm"},{"type":"item","name":"6 Assemble and Set Layer 2","url":"Assemble_and_Set_Layer_2.htm"},{"type":"item","name":"7 Assemble and Set Layers 3 through 7","url":"Assemble_and_Set_Layers_3_7.htm"},{"type":"item","name":"8 Confirm Correct Rod Placement","url":"Confirm_Correct_Rod_Placement.htm"},{"type":"item","name":"9 Assemble and Set Layers 8 through 10","url":"Assemble_and_Set_Layers_8_through_10.htm"},{"type":"item","name":"10 Install the Rod","url":"Install_Rod.htm"},{"type":"item","name":"11 Assemble and Set Layers 11 through 18","url":"Assemble_and_Set_Layers_11_through_18.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

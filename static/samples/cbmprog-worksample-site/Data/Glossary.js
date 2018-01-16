@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'Adesto',c:0},{t:'CAN',c:0},{t:'CBM',c:0},{t:'DataFlash',c:0},{t:'ESD',c:0},{t:'FlashPro',c:0},{t:'FPGA',c:0},{t:'JTAG',c:0},{t:'Microsemi',c:0},{t:'NAND',c:0},{t:'PCB',c:0},{t:'PIC',c:0},{t:'STAPL',c:0},{t:'USB',c:0}]});

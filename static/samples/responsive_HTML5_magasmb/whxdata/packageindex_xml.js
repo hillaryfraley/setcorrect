@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"utf-8\"?><cki><ck fm=\"(\" to=\"at\"/><ck fm=\"auctor\" to=\"et\"/><ck fm=\"etiam\" to=\"lorem\"/><ck fm=\"lower\" to=\"ped\"/><ck fm=\"pellentesqu\" to=\"shield\"/><ck fm=\"ship\" to=\"wisi\"/><ck fm=\"with\" to=\"×\"/></cki>";

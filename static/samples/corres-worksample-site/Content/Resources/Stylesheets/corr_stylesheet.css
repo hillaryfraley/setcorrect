@@ -1,0 +1,111 @@
+﻿/*<meta />*/
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 30px;
+	margin-left: 25px;
+	color: #FFFFFF;
+	border: solid 1px #ddd;
+	border-radius: 5px;
+	padding: 10px;
+	background-color: #006dcc;
+	box-shadow: 5px 5px 5px gray;
+	display: inline-block;
+}
+
+.ph2 {
+	font-size: 24px;
+	color: #696969;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	text-shadow: 0 1px 1px #FFFBFF;
+}
+
+p {
+	margin-bottom: 30px;
+	margin-right: 20px;
+	margin-top: 2px;
+	margin-left: 50px;
+}
+
+img {
+	margin-bottom: 25px;
+	margin-right: 0px;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+li {
+	margin-bottom: 5px;
+	margin-right: 0px;
+	margin-top: 5px;
+	margin-left: 25px;
+}
+
+.filename {
+	font-family: "Courier New", Courier, monospace;
+}
+
+.buttonname {
+	border: solid 1px #696969;
+	border-radius: 5px;
+	padding: 3px;
+	background-color: #F5F5F5;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: 50px;
+	vertical-align: middle;
+	text-align: left;
+	border: 1px solid gray;
+	max-width: 550px;
+}
+
+td {
+	padding: 10px;
+	height: 20px;
+	border: 1px solid gray;
+}
+
+th {
+	height: 20px;
+	padding: 5px;
+}
+
+.colone {
+	color: #FFFFFF;
+	font-weight: bolder;
+	width: 10%;
+}
+
+.coltwo {
+	color: #FFFFFF;
+	font-weight: bolder;
+	width: 90%;
+}
+
+tr:nth-child(even) {background-color: #F5F5F5}
+
+tr:first-child {
+	border: 1px solid gray;
+	background: #006dcc}
+	
+.returnmsg {
+	font-size: 20px;
+	margin-top: 25px;
+	margin-left: 350px;
+	color: #696969;
+	border: solid 1px #006dcc;
+	border-radius: 5px;
+	padding: 15px;
+	background-color: #D3D3D3;
+	box-shadow: 5px 5px 5px gray;
+	text-shadow: 0 1px 1px #fff;
+	display: inline-block;
+}

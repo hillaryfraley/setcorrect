@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"14 Apply Epoxy to the Magnet\" to=\"18 Wrap the Magnet\" num=\"22\"/></cki>";

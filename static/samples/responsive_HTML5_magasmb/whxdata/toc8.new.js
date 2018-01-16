@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"12 Remove the Magnet from the Machine","url":"Remove_the_Magnet_from_the_Machine.htm"},{"type":"item","name":"13 Cut the Sensor Conduit","url":"Cut_the_Sensor_Conduit.htm"},{"type":"item","name":"14 Apply Epoxy to the Magnet","url":"Apply_Epoxy_to_the_Magnet.htm"},{"type":"item","name":"15 Sand the Magnet","url":"Sand_the_Magnet.htm"},{"type":"item","name":"16 Prime the Magnet","url":"Prime_the_Magnet.htm"},{"type":"item","name":"17 Install the Sensors","url":"Install_the_Sensors.htm"},{"type":"item","name":"18 Wrap the Magnet","url":"Wrap_the_Magnet.htm"},{"type":"item","name":"19 Magnetize the Magnet","url":"Magnetize_the_Magnet.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();
