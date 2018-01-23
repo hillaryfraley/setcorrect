@@ -1,9 +1,9 @@
 +++
-showonlyimage = true
+showonlyimage = false
 image = "img/portfolio/pleexy-screenshot.jpg"
 date = "2018-01-15T18:25:22+05:30"
 title = "Pleexy help documentation"
-weight = 2
+weight = 10
 +++
 
 I write Zendesk help docs to support Pleexy's users.

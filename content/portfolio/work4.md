@@ -1,25 +1,30 @@
 +++
 showonlyimage = false
-image = "img/portfolio/cbm-screenshot.jpg"
+image = "img/portfolio/api-template-screenshot.jpg"
 date = "2018-01-16T19:56:17+05:30"
-title = "Software user guides"
-categories = [
-  "samples"
-]
-weight = 4
+title = "Template for minimum API docs in Jekyll"
+weight = 20
 +++
 
-I worked with another technical writer to create user guides for logging-while-drilling (LWD) software.
+I worked with API consultant [James Higginbotham](https://twitter.com/launchany) to create this fill-in-the-blanks template for minimum API documentation.
 <!--more-->
 
-The users were manufacturing technicians who installed and programmed the LWD software and associated equipment. My work included writing, developmental/substantive editing, and applying the company style guide. For this example, I moved the content to MadCap Flare and added custom CSS to style the text and control image size.
+We wanted to offer a solution for developers who need API docs but don't have a technical writer or documentarian available to handle it.
 
-This sample is from the user guide for programming the LWD data transmission system. The Introduction, Warnings, and three FPGA topics are active, along with the Glossary. To maintain confidentiality, I rewrote some of the steps, blurred the screenshots, and removed the PIC and DataFlash/NAND topics.
+With this template, developers can clone the repo and update the placeholder text with information about their API. Our idea was that when you've replaced all the placeholder text, you'll have the essentials documented well enough to help people use your API!
 
-* [Sample User Guide for Programming the CAN Bus Master](/samples/cbmprog-worksample-site/cbmprog.htm) (.htm)
+* [Minimum viable API documentation template](https://launchany.github.io/mvd-template/) (link to the template demo, which is hosted on GitHub Pages)
+
+We also wrote a README.md for the project with details about how to clone, which files to update, and specs for images, among other things:
+
+* [README.md for API documentation template project](https://github.com/launchany/mvd-template) (link to a LaunchAny GitHub repository)
 
 <h5>Tools</h5>
 
-* CSS
-* MadCap Flare
-* Microsoft Word
+* Git/GitHub/GitHub Pages
+* HTML
+* Markdown
+* Jekyll
+* OpenAPI (aka Swagger)
+* Sublime Text
+* Terminal

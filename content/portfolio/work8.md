@@ -3,10 +3,10 @@ showonlyimage = false
 image = "img/portfolio/biosciencewriters-screenshot.jpg"
 date = "2018-01-15T19:41:01+05:30"
 title = "Scientific writing articles"
-weight = 8
+weight = 35
 +++
 
-When I worked at [BioScience Writers](http://www.biosciencewriters.com), I wrote articles to build rapport with potential clients and help researchers improve their scientific manuscripts.
+When I worked at [BioScience Writers](http://www.biosciencewriters.com), I wrote articles to help researchers improve their scientific manuscripts and build rapport with potential clients.
 <!--more-->
 
 I wrote the articles in Microsoft Word, and our web developer published them in HTML on the company website. All of the articles I wrote were reviewed and edited by my wonderful colleagues at the company.

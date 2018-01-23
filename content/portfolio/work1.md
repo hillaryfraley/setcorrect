@@ -3,7 +3,7 @@ showonlyimage = false
 image = "img/portfolio/typeform-screenshot.jpg"
 date = "2018-01-15T18:25:22+05:30"
 title = "Typeform's developer portal"
-weight = 1
+weight = 5
 +++
 
 I worked with Typeform's developers and managers to document three APIs and one SDK.
@@ -26,4 +26,5 @@ Check out [this blog post](https://www.typeform.com/blog/inside-story/developer-
 * OpenAPI (aka Swagger)
 * Postman
 * Snagit
+* Sublime Text
 * Terminal

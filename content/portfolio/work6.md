@@ -1,28 +1,26 @@
 +++
 showonlyimage = false
-image = "img/portfolio/surfreport-screenshot.jpg"
+image = "img/portfolio/cbm-screenshot.jpg"
 date = "2018-01-16T19:56:17+05:30"
-title = "Example API docs in Whiteboard"
+title = "Software user guides"
 categories = [
   "samples"
 ]
-weight = 6
+weight = 30
 +++
 
-This is example API documentation that I put together as I worked through [Tom Johnson's terrific course on documenting REST APIs](http://idratherbewriting.com/docapis_course_overview/).
+I worked with another technical writer to create user guides for logging-while-drilling (LWD) software.
 <!--more-->
 
-* [Example API documentation in Whiteboard](/samples/surfreport/index.html) (.html)
+The users were manufacturing technicians who installed and programmed the LWD software and associated equipment. My work included writing, developmental/substantive editing, and applying the company style guide. For this example, I moved the content to MadCap Flare and added custom CSS to style the text and control image size.
 
-The basis for this documentation is [this fictional wiki](http://idratherbewriting.com/docapis_new_endpoint_to_doc/). I wanted to try a simple tri-pane tool, so I used [Whiteboard](https://github.com/mpociot/whiteboard) to generate a neat and organized API doc set with code samples.
+This sample is from the user guide for programming the LWD data transmission system. The Introduction, Warnings, and three FPGA topics are active, along with the Glossary. To maintain confidentiality, I rewrote some of the steps, blurred the screenshots, and removed the PIC and DataFlash/NAND topics.
 
-Whiteboard is a Node.js-based API docs generator that uses Markdown files to render the documentation. I originally wanted to use [Slate](https://github.com/lord/slate), but I had trouble with the convoluted setup process that Whiteboard's creator mentions in the [project README.md](https://github.com/mpociot/whiteboard/blob/master/README.md).
-
-If you're curious, here's the same doc set as a [GitHub wiki written in rST](https://github.com/hillaryfraley/surfreport-apiexample/wiki) (link to one of my GitHub repositories).
+* [Sample User Guide for Programming the CAN Bus Master](/samples/cbmprog-worksample-site/cbmprog.htm) (.htm)
 
 <h5>Tools</h5>
 
-* Git/GitHub
-* Markdown
-* reStructured Text (rst)
-* Whiteboard
+* CSS
+* MadCap Flare
+* Microsoft Word
+* Sublime Text

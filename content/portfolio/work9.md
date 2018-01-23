@@ -6,7 +6,7 @@ title = "Assembly manual for MRI logging magnet"
 categories = [
   "samples"
 ]
-weight = 9
+weight = 40
 +++
 
 For this project, I wrote assembly procedures using videos as source material.

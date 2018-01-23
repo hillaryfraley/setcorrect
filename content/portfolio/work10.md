@@ -6,7 +6,7 @@ title = "Process map and office procedures"
 categories = [
   "samples"
 ]
-weight = 10
+weight = 50
 +++
 
 This document set is from a process improvement project.
@@ -24,3 +24,4 @@ The "Receive Correspondence," "Retrieve and Scan Correspondence," and "Read Corr
 
 * MadCap Flare
 * Microsoft Word
+* Sublime Text

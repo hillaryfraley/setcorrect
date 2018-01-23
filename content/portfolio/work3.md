@@ -1,48 +1,43 @@
 +++
 showonlyimage = false
 image = ""
-date = "2018-01-15T19:50:47+05:30"
-title = "Work practices"
-categories = [
-  "samples"
-]
-weight = 3
+date = "2018-01-16T19:56:17+05:30"
+title = "Idea: Write for humans"
+weight = 15
 +++
 
-For this project, I worked with subject matter experts (SMEs) in four states to create a manual with 90 work practices.
+Sometimes, I run across a document that makes me wonder who is supposed to use it. It doesn't always seem like the answer is a human being.
+
 <!--more-->
 
-The intended audience was electrical line workers. After several mergers, the company's work practices sometimes referred to groups that no longer existed or were specific to only one state. We needed an updated manual that applied to all of the company's line workers.
+Technical documents can be filled with jargon and showy words that make them hard to understand. The tone can be so authoritative or unnatural that any human reader would be turned off to the message. Sometimes, technical documents seem written to impress *someone* instead of to help others understand.
 
-This sample is a work practice for crew members. It explains the job briefing requirements in Occupational Safety and Health Administration (OSHA) [29 CFR 1926.952](https://www.ecfr.gov/cgi-bin/text-idx?SID=ceeaf016fdd21de13fffb416153479ad&node=se29.8.1926_1952&rgn=div8):
+Poor documentation processes can also result in unusable technical documents. Wrangling documents through a complicated review process with too many stakeholders can produce final drafts that are impossible to understand. When too many people have a personal stake in the details, documents can become collections of "must-haves" instead of usable information. The process doesn't work if it results in documents that people cannot use!
 
-* [Sample Work Practice for Job Briefings](/samples/JobBriefingsWorkPracticeExample.pdf) (.pdf)
+If people are the intended audience for your documents, then why not write for people? Here are a few of my thoughts about how to do that.
 
-I tracked down existing documents in company repostories, on local drives, and in binders on people's desks. I worked with our SMEs to identify useful content in these documents and merge it into work practice documents that would apply to the entire company.
+<h5>Say what you mean</h5>
 
-When the merged information was outdated or subject to new regulations, I worked with our SMEs to update the work practices as needed. I standardized the terminology across all of the work standards and eliminated duplicated and conflicting information.
+I think most of us are familiar with the feeling of someone talking over our heads. Even if you're not using big words and technical jargon on purpose, they are barriers for readers to overcome. Use the simplest, most commonly understood words that will convey your meaning.
 
-I created a Microsoft Word template that met the company's documentation standards and used styles to minimize the formatting burden. As we wrote the work practices, I created a project-specific style guide and document development guidance to help the client maintain the work practices after biennial reviews. I also helped the project manager refine the document inventory so that work practice titles accurately reflected their content. Finally, I wrote training and release notes to introduce changes to the manual's users.
+Euphemisms are another way that you might not be saying what you mean. A good example of a euphemism is saying "certified pre-owned auto" instead of "used car." Euphemisms are vague, and vagueness is a problem in technical writing. I understand the urge to avoid saying something improper or unpleasant, but it's more important for readers to understand exactly what you mean.
 
-Here's a screenshot showing how I set up the work practice template using styles in Microsoft Word:
+<h5>Use a friendly, conversational tone</h5>
 
-* [Sample Template for Work Practices](/samples/WorkPracticeTemplateStyleScreenshot.jpg) (.jpg)
+There's no need to use a rigid, formal tone in your technical documents. You can write clearly, precisely, and conversationally, even if you're writing something like a company policy. When you write conversationally, you're not necessarily writing like you would talk. You're still using correct grammar and sentence construction. You're just using more natural language. Here's an example:
 
-Just for fun (yep, I said fun), I reformatted this work practice into Markdown. I used StackEdit for the initial formatting, then fiddled around in the GitHub editor to add some GitHub Flavored Markdown (the little yellow triangles with the warnings). Then, I went back to StackEdit to figure out a manual table of contents:
+* Formal: The technician goes to his or her control panel and depresses the button marked "GO."
+* Conversational: At your control panel, press the "GO" button.
 
-* [Sample Markdown Work Practice for Job Briefings](https://github.com/hillaryfraley/jobbriefings) (link to one of my GitHub repositories)
+One way to give your writing a friendlier tone is to address the reader directly when it makes sense. There's really nothing wrong with using the word "you" in technical documents. You can also replace passive voice with active voice. I rewrite what I call pronouncements, which are phrases like "Workers shall..." and "You are prohibited from..."
 
-I also blogged about how I created the manual table of contents in Markdown:
+<h5>Organize your technical documents</h5>
 
-[Tutorial: Manually Creating a Markdown Table of Contents for Your GitHub README]() (link to a blog post on this site)
+Organizing a document begins with the scope: what the document does and doesn't cover. Every document needs a scope, even if you only use it as part of the writing process and won't include a scope section in the document. All of the information in the document should be relevant to the scope. Information that is outside the scope is clutter, and clutter makes your document less useful.
 
-And finally, I recreated the work practice as a GitHub wiki:
+Organized documents also have logical sections with descriptive headings. Well-written headings mean that readers won't be confused or surprised by the information they find in a section. They won't wonder which section contains the information they need.
 
-[Sample Wiki for Job Briefings](https://github.com/hillaryfraley/jobbriefings/wiki) (link to one of my GitHub repositories)
+A clear scope and focused organization can also help you handle "must-have" requests from stakeholders. These requests seem to come from a fear that goes something like "if we don't include this important information everywhere, we can't be sure that people will read it." If the information isn't relevant to what readers are looking for, they will disregard it. Follow each document's scope and organization to make sure that important information appears where people will try to find it -- the only place it really needs to be.
 
-<h5>Tools</h5>
 
-* Git/GitHub
-* Markdown
-* Microsoft Word
-
+Writing for humans takes some planning and thought, but if you're going to be writing anyway, why not write something that people can use?
