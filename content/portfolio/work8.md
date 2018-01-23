@@ -21,6 +21,6 @@ Some of the articles were inspired by questions people asked our company preside
 * [Impact Factors and Your Scientific Manuscript](http://www.biosciencewriters.com/Impact-Factors-and-Your-Scientific-Manuscript.aspx)
 * [Writing Strong Titles for Research Manuscripts](http://www.biosciencewriters.com/Writing-Strong-Titles-for-Research-Manuscripts.aspx)
 
-#### Tools
+##### Tools
 
 * Microsoft Word

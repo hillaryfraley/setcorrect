@@ -19,7 +19,7 @@ The docs are deployed to a wonderful Gatsby site designed and built by Typeform'
 
 Check out [this blog post](https://www.typeform.com/blog/inside-story/developer-platform/) by [Jason Harmon](https://twitter.com/jharmn), Typeform's Chief Platform Officer, for details.
 
-#### Tools
+##### Tools
 
 * Git/GitHub
 * Markdown
