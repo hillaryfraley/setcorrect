@@ -116,7 +116,7 @@ The last task was publishing the final to a [GitHub README](https://github.com/h
 
 It's not quick or automated, but it IS a neat, organized, clickable table of contents in a GitHub README file!
 
-<h5>Tools</h5>
+#### Tools
 
 * GitHub
 * Markdown

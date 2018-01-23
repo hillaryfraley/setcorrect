@@ -19,7 +19,7 @@ We also wrote a README.md for the project with details about how to clone, which
 
 * [README.md for API documentation template project](https://github.com/launchany/mvd-template) (link to a LaunchAny GitHub repository)
 
-<h5>Tools</h5>
+#### Tools
 
 * Git/GitHub/GitHub Pages
 * HTML

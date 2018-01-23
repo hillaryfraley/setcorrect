@@ -19,7 +19,7 @@ I picked my favorite passages from each one, documented every source I could fin
 
 If you know of an obituary I missed, please [let me know](/contact/)!
 
-<h5>Tools</h5>
+#### Tools
 
 * Git/GitHub Pages
 * Jekyll

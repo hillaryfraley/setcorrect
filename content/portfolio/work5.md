@@ -40,7 +40,7 @@ And finally, I recreated the work practice as a GitHub wiki:
 
 [Sample Wiki for Job Briefings](https://github.com/hillaryfraley/jobbriefings/wiki) (link to one of my GitHub repositories)
 
-<h5>Tools</h5>
+#### Tools
 
 * Git/GitHub
 * Markdown

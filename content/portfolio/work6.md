@@ -18,7 +18,7 @@ This sample is from the user guide for programming the LWD data transmission sys
 
 * [Sample User Guide for Programming the CAN Bus Master](/samples/cbmprog-worksample-site/cbmprog.htm) (.htm)
 
-<h5>Tools</h5>
+#### Tools
 
 * CSS
 * MadCap Flare

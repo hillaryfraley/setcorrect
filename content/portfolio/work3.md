@@ -16,13 +16,13 @@ Poor documentation processes can also result in unusable technical documents. Wr
 
 If people are the intended audience for your documents, then why not write for people? Here are a few of my thoughts about how to do that.
 
-<h5>Say what you mean</h5>
+#### Say what you mean
 
 I think most of us are familiar with the feeling of someone talking over our heads. Even if you're not using big words and technical jargon on purpose, they are barriers for readers to overcome. Use the simplest, most commonly understood words that will convey your meaning.
 
 Euphemisms are another way that you might not be saying what you mean. A good example of a euphemism is saying "certified pre-owned auto" instead of "used car." Euphemisms are vague, and vagueness is a problem in technical writing. I understand the urge to avoid saying something improper or unpleasant, but it's more important for readers to understand exactly what you mean.
 
-<h5>Use a friendly, conversational tone</h5>
+#### Use a friendly, conversational tone
 
 There's no need to use a rigid, formal tone in your technical documents. You can write clearly, precisely, and conversationally, even if you're writing something like a company policy. When you write conversationally, you're not necessarily writing like you would talk. You're still using correct grammar and sentence construction. You're just using more natural language. Here's an example:
 
@@ -31,7 +31,7 @@ There's no need to use a rigid, formal tone in your technical documents. You can
 
 One way to give your writing a friendlier tone is to address the reader directly when it makes sense. There's really nothing wrong with using the word "you" in technical documents. You can also replace passive voice with active voice. I rewrite what I call pronouncements, which are phrases like "Workers shall..." and "You are prohibited from..."
 
-<h5>Organize your technical documents</h5>
+#### Organize your technical documents
 
 Organizing a document begins with the scope: what the document does and doesn't cover. Every document needs a scope, even if you only use it as part of the writing process and won't include a scope section in the document. All of the information in the document should be relevant to the scope. Information that is outside the scope is clutter, and clutter makes your document less useful.
 

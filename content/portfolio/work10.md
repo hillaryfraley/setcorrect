@@ -20,7 +20,7 @@ The "Receive Correspondence," "Retrieve and Scan Correspondence," and "Read Corr
 
 * [Sample Process Map and Procedures for Replying to Correspondence](/samples/corres-worksample-site/corres.htm) (.htm)
 
-<h5>Tools</h5>
+#### Tools
 
 * MadCap Flare
 * Microsoft Word
