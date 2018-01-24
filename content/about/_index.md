@@ -9,10 +9,8 @@ My name is Hillary, and I'm a technical writer and editor. Ever since I wrote an
 
 I do project-based work on everything from API documentation to presentation decks.
 
-Documentation is a company asset. Your docs are just like any other asset: employees, platforms, code, offices, and trade formulas. They are vital to your business! If you aren't treating your documentation like an asset, I can help you.
+You can see some examples of my work in [my portfolio](https://www.setcorrect.com). Check out [my LinkedIn profile](https://www.linkedin.com/in/hillaryfraley) for more information about my background or [my GitHub](https://github.com/hillaryfraley) to see a few of the things I'm working on.
 
-You can see some of my work samples in [my portfolio](https://www.setcorrect.com). Check out [my LinkedIn profile](https://www.linkedin.com/in/hillaryfraley) for more information about my background.
-
-And if you're a fellow technical writer, [let's connect](/contact/)! I love this job, and I'm always excited to meet other people who are doing it too.
+And if you're a fellow technical writer, let's connect! I love this job, and I'm always excited to meet other people who are doing it too.
 
 [1]: /img/about.jpg

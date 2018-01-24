@@ -17,7 +17,7 @@ I picked my favorite passages from each one, documented every source I could fin
 * [Obituaries by Molly Ivins](https://hillaryfraley.github.io/obits-by-molly-ivins/) (link to GitHub Pages-hosted Jekyll blog)
 * [GitHub repo for the project](https://github.com/hillaryfraley/obits-by-molly-ivins) (link to one of my GitHub repositories)
 
-If you know of an obituary I missed, please [let me know](/contact/)!
+If you know of an obituary I missed, please let me know! Email me at hillary@setcorrect.com or [create a PR](https://github.com/hillaryfraley/obits-by-molly-ivins).
 
 ##### Tools
 
