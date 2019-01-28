@@ -2,7 +2,7 @@
 showonlyimage = false
 image = ""
 date = "2018-01-15T19:44:32+05:30"
-title = "Idea: Let's stop saying 'It's Simple!' in technical documents"
+title = "Let's stop saying 'It's Simple!' in technical documents"
 weight = 45
 +++
 
