@@ -2,7 +2,7 @@
 showonlyimage = false
 image = ""
 date = "2018-01-15T19:44:32+05:30"
-title = "List: Alternatives to showy words"
+title = "Alternatives to showy words"
 weight = 34
 +++
 
