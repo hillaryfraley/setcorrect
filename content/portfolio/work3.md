@@ -2,7 +2,7 @@
 showonlyimage = false
 image = ""
 date = "2018-01-16T19:56:17+05:30"
-title = "Idea: Write for humans"
+title = "Write for humans"
 weight = 15
 +++
 
