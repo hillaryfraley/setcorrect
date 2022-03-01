@@ -3,7 +3,7 @@ showonlyimage = false
 image = ""
 date = "2018-01-15T19:44:32+05:30"
 title = "Let's stop saying 'It's Simple!' in technical documents"
-weight = 45
+weight = 15
 +++
 
 Imagine you're trying to use some new software.
