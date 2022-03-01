@@ -3,7 +3,7 @@ showonlyimage = false
 image = ""
 date = "2018-01-16T19:56:17+05:30"
 title = "Write for humans"
-weight = 15
+weight = 45
 +++
 
 Sometimes, I run across a document that makes me wonder who is supposed to use it. It doesn't always seem like the answer is a human being.
