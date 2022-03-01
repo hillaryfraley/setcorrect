@@ -13,12 +13,12 @@ googleAnalytics = "UA-136776838-1"
   # Use custom.css for your custom styling
   style = "sea"
   description = "Technical writing and editing services"
-  copyright = "&copy;2019 SETCorrect LLC. All rights reserved."
+  copyright = "&copy;2022 SETCorrect LLC. All rights reserved."
   sidebarAbout = [
     "Better known as Hillary Fraley. I'm a technical writer and editor.",
-    "Currently obsessed with static site generators and API documentation."
+    "Currently writing developer documentation on the Sensu team at Sumo Logic."
   ]
-  email = "hillary at setcorrect.com"
+  email = "hillary.e.fraley at gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -32,7 +32,7 @@ googleAnalytics = "UA-136776838-1"
   [params.social]
   # facebook      = "full page or profile url in facebook"
   # googleplus    = "full profile url in googleplus"
-  email         = "hillary@setcorrect.com"
+  email         = "hillary.e.fraley@gmail.com"
   # twitter       = "full profile url in twitter"
   linkedin      = "https://www.linkedin.com/in/hillaryfraley/"
   # stackoverflow = "full profile url in stackoverflow"
