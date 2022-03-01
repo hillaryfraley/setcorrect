@@ -1,5 +1,5 @@
 +++
-date = "2018-01-15T21:05:33+05:30"
+date = "2022-02-28T21:05:33+05:30"
 title = "About me"
 +++
 
@@ -7,7 +7,7 @@ My name is Hillary, and I'm a technical writer and editor. Ever since I wrote an
 
 ![This is me][1]
 
-I do project-based work on everything from API documentation to presentation decks.
+I have done project-based work on everything from API documentation to presentation decks.
 
 You can see some examples of my work in [my portfolio](https://www.setcorrect.com). Check out [my LinkedIn profile](https://www.linkedin.com/in/hillaryfraley) for more information about my background or [my GitHub](https://github.com/hillaryfraley) to see a few of the things I'm working on.
 
