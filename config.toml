@@ -1,6 +1,6 @@
 baseurl = "https://www.setcorrect.com"
 title = "SETCorrect LLC"
-theme = "hugo-creative-portfolio"
+theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 enableEmoji = true
 # Enable comments by entering your Disqus shortname
