@@ -12,7 +12,7 @@ Do you ever roll your eyes at manuals?
 
 I do, at least when the writing is full of showy words that make the meaning unclear. I love technical documents, and I know technical writers often have to deal with weird requirements. So I roll my eyes with affection, but still...they roll.
 
-A few years ago, I started keeping this list of showy words. When I notice a new one, I add it, along with a couple simple alternatives. It's a good reminder to use the simplest word that expresses my meaning. Hey, I don't want to make my own list [*she said nervously*].
+A few years ago, I started keeping this list of these words. When I notice a new one, I add it, along with a couple simple alternatives. It's a good reminder to use the simplest word that expresses my meaning. Hey, I don't want to qualify for my own list [*she said nervously*].
 
 The latest is "optics," if you're wondering. Yes, this is my idea of fun...why do you ask?!
 

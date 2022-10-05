@@ -3,7 +3,7 @@ date = "2022-02-28T21:05:33+05:30"
 title = "About me"
 +++
 
-My name is Hillary, and I'm a technical writer and editor. Ever since I wrote an employee manual in my first job, I've been fascinated with how documentation can solve problems and make things easier for people.
+My name is Hillary, and I'm a technical writer and editor. Ever since I wrote a manual in my first job, I've enjoyed creating documentation that solves problems and makes things easier for people.
 
 ![This is me][1]
 
