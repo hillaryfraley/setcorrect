@@ -13,10 +13,10 @@ googleAnalytics = "UA-136776838-1"
   # Use custom.css for your custom styling
   style = "sea"
   description = "Technical writing and editing services"
-  copyright = "&copy; SETCorrect LLC. All rights reserved."
+  copyright = "&copy; 2023 SETCorrect LLC. All rights reserved."
   sidebarAbout = [
     "Better known as Hillary Fraley. I'm a technical writer and editor.",
-    "Currently writing developer documentation on the Sensu team at Sumo Logic."
+    "Currently writing security and API documentation at Dremio."
   ]
   email = "hillary.e.fraley at gmail.com"
 
