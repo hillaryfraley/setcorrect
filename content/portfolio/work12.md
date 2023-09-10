@@ -25,7 +25,7 @@ Most of the documents were written for executive- and manager-level employees. H
 
 This work sample includes my revised text for the first seven sections, with all company-specific and proprietary information removed. I replaced the text in sections 8 through 25 with lorem ipsum filler.
 
-##### Tools
+### Tools
 
 * Microsoft Word
 * Adobe FrameMaker

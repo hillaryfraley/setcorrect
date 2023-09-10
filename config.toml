@@ -18,7 +18,7 @@ googleAnalytics = "UA-136776838-1"
     "Better known as Hillary Fraley. I'm a technical writer and editor.",
     "Currently writing security and API documentation at Dremio."
   ]
-  email = "hillary.e.fraley at gmail.com"
+  email = "hillary at setcorrect.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -32,7 +32,7 @@ googleAnalytics = "UA-136776838-1"
   [params.social]
   # facebook      = "full page or profile url in facebook"
   # googleplus    = "full profile url in googleplus"
-  email         = "hillary.e.fraley@gmail.com"
+  email         = "hillary@setcorrect.com"
   # twitter       = "full profile url in twitter"
   linkedin      = "https://www.linkedin.com/in/hillaryfraley/"
   # stackoverflow = "full profile url in stackoverflow"

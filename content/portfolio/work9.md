@@ -22,7 +22,7 @@ In this sample, the active topics are Purpose and Scope, Equipment and Materials
 
 * [Sample MRI Logging Magnet Assembly Manual (6-in.)](/samples/responsive_HTML5_magasmb/index.htm) (.htm)
 
-##### Tools
+### Tools
 
 * Adobe RoboHelp
 * Microsoft Word

@@ -16,7 +16,7 @@ I wrote Zendesk documentation to help people [get started](https://help.pleexy.c
 
 I also added screenshots and animated GIFs to the docs as needed to illustrate written processes.
 
-##### Tools
+### Tools
 
 * ScreenToGif
 * Snagit
