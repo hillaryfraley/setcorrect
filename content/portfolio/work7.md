@@ -20,7 +20,7 @@ Whiteboard is a Node.js-based API docs generator that uses Markdown files to ren
 
 If you're curious, here's the same doc set as a [GitHub wiki written in rST](https://github.com/hillaryfraley/surfreport-apiexample/wiki) (link to one of my GitHub repositories).
 
-##### Tools
+### Tools
 
 * Git/GitHub
 * Markdown

@@ -25,11 +25,11 @@ Most of the template is written in Markdown, although the landing page is writte
 
 One of the highlights of my career was when an API officer messaged me on LinkedIn and said that he used this template to bootstrap a developer portal. It made my day!
 
-##### Tools
+### Tools
 
 I used these tools in the course of my work on the API docs template:
 
-* Git/GitHub/GitHub Pages
+* Git &#8226; GitHub &#8226; GitHub Pages
 * Markdown
 * Jekyll
 
