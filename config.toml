@@ -16,7 +16,7 @@ googleAnalytics = "UA-136776838-1"
   copyright = "&copy; 2026 SETCorrect LLC. All rights reserved."
   sidebarAbout = [
     "Better known as Hillary Fraley. I'm a technical writer and editor.",
-    "Currently writing API and IAM documentation at Cribl."
+    "Currently writing IAM and API docs at Cribl."
   ]
   email = "hillary at setcorrect.com"
 
